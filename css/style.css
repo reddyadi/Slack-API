@@ -1,0 +1,14 @@
+.ls{
+  margin-left: 30em;
+  padding-top: 3em;
+  width: 20em;
+  height: 25em;
+  border: solid black 2px;
+  border-radius: 0.5em;
+  background-color: #00F0FF;
+}
+
+ul{
+  text-align: center;
+  list-style: none;
+}
